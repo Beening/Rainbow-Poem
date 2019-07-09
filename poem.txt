@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 no Ultravoilet
 Violet
@@ -10,3 +10,6 @@ Orange
 Red
 Infrared
 These are the colors of the rainbow.
+
+The unicorn loves the rainbow.
+Thus, the unicorn loves these colors.
