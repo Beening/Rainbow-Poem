@@ -8,7 +8,7 @@ Green
 Yellow
 Orange
 Red
-Infrared
+no Infrared
 These are the colors of the rainbow.
 
 The unicorn loves the rainbow.
